@@ -1,0 +1,8 @@
+pip install pygame
+pip3 install torch torchvision (for Windows only)
+pip install matplotlib Ipython
+pip install ipython
+
+Note:
+  There might be typos after the install
+  Recheck to make sure that the Requirement name is correct
